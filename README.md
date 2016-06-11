@@ -52,7 +52,7 @@ Let's head up to the top of this file and add some more elements. In the `<heade
 </header>
 ```
 
-The "wrapper" class is going to help us to center content in a common parent element. let's add afew more wrappers. Open a wrapper div just below the closing `</header>` element. And we will close the wrapper div just before the starting `<section id="details">`.
+The "wrapper" class is going to help us to center content in a common parent element. let's add a few more wrappers. Open a wrapper div just below the closing `</header>` element. And we will close the wrapper div just before the starting `<section id="details">`.
 
 ```html
 </header>
@@ -365,3 +365,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 Congrats! You did it!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/fe-code-along-4'>Code Along Exercise IV</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-css-page-layout-code-along'>CSS Page Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
