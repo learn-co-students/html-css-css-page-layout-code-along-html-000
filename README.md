@@ -257,7 +257,7 @@ and also apply the clearfix in the details section:
 </section>
 ```
 
-Lets save and open the index page in the browser to se the column structure. Looks pretty good, but the video element is sticking outside of the column. To fix this head back to your CSS file.
+Lets save and open the index page in the browser to see the column structure. Looks pretty good, but the video element is sticking outside of the column. To fix this head back to your CSS file.
 
 ```css
 /*////////// MEDIA //////////*/
@@ -365,3 +365,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 Congrats! You did it!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/fe-code-along-4'>Code Along Exercise IV</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-css-page-layout-code-along'>CSS Page Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
