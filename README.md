@@ -88,7 +88,7 @@ We will start by adding a comment at the bottom of our CSS file.
 /*////////// LAYOUT //////////*/
 ```
 
-Then below create a slector for our wrapper class.
+Then below create a selector for our wrapper class.
 
 ```css
 /*////////// LAYOUT //////////*/
@@ -365,3 +365,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 Congrats! You did it!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/fe-code-along-4'>Code Along Exercise IV</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-css-page-layout-code-along'>CSS Page Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
