@@ -52,7 +52,7 @@ Let's head up to the top of this file and add some more elements. In the `<heade
 </header>
 ```
 
-The "wrapper" class is going to help us to center content in a common parent element. let's add afew more wrappers. Open a wrapper div just below the closing `</header>` element. And we will close the wrapper div just before the starting `<section id="details">`.
+The "wrapper" class is going to help us to center content in a common parent element. let's add a few more wrappers. Open a wrapper div just below the closing `</header>` element. And we will close the wrapper div just before the starting `<section id="details">`.
 
 ```html
 </header>
