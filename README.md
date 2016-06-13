@@ -257,7 +257,7 @@ and also apply the clearfix in the details section:
 </section>
 ```
 
-Lets save and open the index page in the browser to se the column structure. Looks pretty good, but the video element is sticking outside of the column. To fix this head back to your CSS file.
+Lets save and open the index page in the browser to see the column structure. Looks pretty good, but the video element is sticking outside of the column. To fix this head back to your CSS file.
 
 ```css
 /*////////// MEDIA //////////*/
